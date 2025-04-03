@@ -1,0 +1,14 @@
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\obj\Debug\net8.0\EXAMENF.GeneratedMSBuildEditorConfig.editorconfig
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\obj\Debug\net8.0\EXAMENF.AssemblyInfoInputs.cache
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\obj\Debug\net8.0\EXAMENF.AssemblyInfo.cs
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\obj\Debug\net8.0\EXAMENF.csproj.CoreCompileInputs.cache
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\bin\Debug\net8.0\EXAMENF.exe
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\bin\Debug\net8.0\EXAMENF.deps.json
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\bin\Debug\net8.0\EXAMENF.runtimeconfig.json
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\bin\Debug\net8.0\EXAMENF.dll
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\bin\Debug\net8.0\EXAMENF.pdb
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\obj\Debug\net8.0\EXAMENF.dll
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\obj\Debug\net8.0\refint\EXAMENF.dll
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\obj\Debug\net8.0\EXAMENF.pdb
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\obj\Debug\net8.0\EXAMENF.genruntimeconfig.cache
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\obj\Debug\net8.0\ref\EXAMENF.dll
