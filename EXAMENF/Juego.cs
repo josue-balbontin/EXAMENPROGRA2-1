@@ -27,12 +27,9 @@ namespace EXAMENF
             {
                 Console.WriteLine();
                 imprimirtablero();
-                Console.WriteLine("Ingrese su fila");
-                int fila = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Ingrese su columna");
-                int columna = Convert.ToInt32(Console.ReadLine());
-                if(logica.rellenar(fila,columna, obtenertablero()) == false)
-                {   Console.Clear();
+                if (logica.rellenarju(obtenertablero()) == false)
+                {
+                    Console.Clear();
                     Console.WriteLine("Posicion ocupada");
                     continue;
                 }
@@ -116,6 +113,14 @@ namespace EXAMENF
                 ia.rellenartablero(tablero);
 
             }
+
+            public bool rellenarju(List<string> tablero)
+            {
+                Jugador jugador = new Jugador();
+                return jugador.rellenartablero(tablero);
+                
+            }
+
             public int verificarganador(List<string>tablero)
             {
                 for (int i = 0; i < 3; i++)

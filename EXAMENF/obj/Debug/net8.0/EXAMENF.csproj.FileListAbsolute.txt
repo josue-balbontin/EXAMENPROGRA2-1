@@ -12,3 +12,4 @@ D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\obj\Debug\
 D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\obj\Debug\net8.0\EXAMENF.pdb
 D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\obj\Debug\net8.0\EXAMENF.genruntimeconfig.cache
 D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\obj\Debug\net8.0\ref\EXAMENF.dll
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\EXAMENF\EXAMENF\obj\Debug\net8.0\EXAMENF.sourcelink.json
